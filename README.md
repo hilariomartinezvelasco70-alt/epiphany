@@ -3,7 +3,7 @@
 GNOME Web (codename: Epiphany) is a GNOME web browser based on
 [the WebKit rendering engine](https://webkit.org/). The codename means "a
 usually sudden manifestation or perception of the essential nature or meaning of
-something" ([Merriam-Webster](https://www.merriam-webster.com/dictionary/epiphany)).
+something" ([Merriam-Webster](https://www.merriam-webster.com/dictionary/epiphany)).xci
 
 Epiphany is opinionated.
 
